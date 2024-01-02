@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thomas
 - 👀 I’m interested in make games, make apps, and use blender 
 - 🌱 I’m currently learning program languages and 3D blender
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I'm looking to collaborate on something
 - 📫 How to reach me on sendthomasmensage@gmail.com
 
 <!---
