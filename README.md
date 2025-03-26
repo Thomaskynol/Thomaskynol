@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Thomas
-- 👀 I’m interested in make games, make apps, and use blender 
-- 🌱 I’m currently learning program languages and 3D blender
-- 💞️ I'm looking to collaborate on something
-- 📫 How to reach me on discord --> thomasiratus
+# 👋 Hi, I’m Thomas  
+
+- 🎮 **Game Developer** | Lua (Roblox), Python, 3D Modeling (Blender)  
+- 🛠️ Experience with game mechanics, automation, and clean architecture  
+- 🚀 Always learning and building new projects  
+
+📫 **Contact:**  
+- **Discord:** thomaskyn  
+- **Email:** [sendthomasmensage@gmail.com](mailto:sendthomasmensage@gmail.com)  
 
 <!---
 Thomaskynol/Thomaskynol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
