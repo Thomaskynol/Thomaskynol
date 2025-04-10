@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Thomas  
 
 - 🎮 **Game Developer** | Lua (Roblox), Python, MS-DOS, Shell, C, C++, 3D Modeling (Blender)  
-- 🛠️ Experience with game mechanics, automation, and clean architecture  
+- 🛠️ Experience with game mechanics, automation, and clean architecture, clean code, and much more
 - 🚀 Always learning and building new projects  
 
 💖 **Portifolio:**  
